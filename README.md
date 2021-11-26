@@ -5,8 +5,9 @@ Micro keypad using the raspberry pi zero
 
 1. Raspberry Pi Zero
 2. 4 x 4 keypad
-3. i2c lcd
-4. usb cable for power and data
+3. I2C LCD
+4. USB cable for power and data
+5. Enclosure case ( I am thinking a NES cartridge )
 
 ## References
 
